@@ -1,0 +1,5 @@
+hantoo1_*.exe
+debuglog/
+result/
+.env
+.token_cache.json
