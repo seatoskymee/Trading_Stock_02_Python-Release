@@ -1,8 +1,8 @@
 # Trading_Stock_02_Python-Release
 
 한투 자동매매봇 **배포(릴리스) 전용** 저장소입니다.
-> ⚠️ 이 저장소에는 소스코드를 올리지 않습니다. 소스는 [Trading_Stock_02_Python](https://github.com/seatoskymee/Trading_Stock_02_Python) 에 있습니다.
-
+> ⚠️ 이 저장소에는 소스코드를 올리지 않습니다.
+> 
 ## 내려받기
 [Releases](../../releases) 에서 최신 버전의 `hantoo1_vX.X.X.exe` 를 받으세요.
 
